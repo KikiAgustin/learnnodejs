@@ -1,0 +1,5 @@
+prilakuk javascript di node dan di browser itu berbeda, seperti dalam penggunaan windows di node tidak bisa
+
+node js menggunakan sistem module, jadi tidak bisa file lain digunakan difile yang sedang kita buka begitu saja. harus ada syaratnya
+
+cara menggunakan file lain di node yaitu menggunakan FUNGSI {module.exports}

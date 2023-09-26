@@ -1,0 +1,10 @@
+mode adalah sekumpulan code yang dapat digunakan kembali dengan cara tertentu
+
+setiap modules yang ada di node js, memilik konteks masing-masing, tidak bisa tercampur dengan module yang lain secara  global
+
+tipe modules di node js
+
+1. core module => adalah module yang di sediakan oleh node js
+2. local module => adalah module yang kita bikin sendiri
+3. third party modules => adalah module yang dibuat oleh pihak ketiga
+
