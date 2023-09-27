@@ -1,0 +1,5 @@
+CORE MODULE
+
+untuk melihat core module apa saja yang ada di node.js tinggal buka aja di websitenya dan cari dokumentasi
+
+salah satu yang dicoba adalah filesystem. di filesistem juga banyak fungsi2 yang bisa kita gunakan, salah satunya untuk membuat file baru
