@@ -1,0 +1,23 @@
+semantik version => contoh 1.0.0
+
+penjelasan semantik version
+angka ketiga terakhir hanya perubahan atau perbaikan bug aja
+angka kedua perubahan minor, jadi masih bisa digunakan
+angka ketiga perubahan merger
+
+Cara menginisialisasi kodingan kita menggunakan node js, yaitu dengan menulis di path nya => npm init
+
+perintah yang dibuat dipackage.json bisa menambahkan perintah sendiri tapi menjalankan nya harus seperti ini npm run dev
+
+cara instal modules di npm
+npm i nama module yang akan kita intall
+
+folder node_modules adalah folder package yang kita install
+
+package-lock.json adalah file pengelola dari package yang kita install
+
+cara install npm berdasarkan version
+npm i validator@13.5.2
+
+cara hapus package
+npm uninstall nama package yang akan dihapus
